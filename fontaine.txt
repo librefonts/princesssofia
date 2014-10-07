@@ -1,0 +1,42 @@
+Fonts
+  Font:
+    Common name: Princess Sofia
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name "Princess Sofia"
+    License: This Font Software is licensed under the SIL Open Font License,
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Font Diner, Inc DBA Tart Workshop
+    Vendor url: http://www.fontbros.com/tartworkshop.php
+    Designer: Crystal Kluge
+    Designer url: http://www.tartworkshop.com
+    Glyph count: 230
+    Character count: 229
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
